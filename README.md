@@ -8,6 +8,8 @@ git clone in the src folder of your workspace file
 
 Shell files should be placed outside the src
 
+if you don't have beagle(robomation - korea), change lidar.py code and beagle.py. 
+
 Code runs automatically when you run the start.sh file. You don't have to be surprised because a lot of terminals will be running.
 ## Using pacakge
 SLAM TOOLBOX
