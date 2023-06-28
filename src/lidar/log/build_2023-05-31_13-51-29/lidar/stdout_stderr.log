@@ -1,0 +1,37 @@
+running egg_info
+creating build/lidar/lidar.egg-info
+writing build/lidar/lidar.egg-info/PKG-INFO
+writing dependency_links to build/lidar/lidar.egg-info/dependency_links.txt
+writing entry points to build/lidar/lidar.egg-info/entry_points.txt
+writing requirements to build/lidar/lidar.egg-info/requires.txt
+writing top-level names to build/lidar/lidar.egg-info/top_level.txt
+writing manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+reading manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+writing manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/hyunjun/lostchild/src/lidar/build/lidar/build
+creating /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib
+creating /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+copying lidar/__init__.py -> /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+copying lidar/lidar_subscriber.py -> /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+copying lidar/lidar.py -> /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+running install
+running install_lib
+creating /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+copying /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar/__init__.py -> /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+copying /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar/lidar_subscriber.py -> /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+copying /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar/lidar.py -> /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+byte-compiling /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar/lidar_subscriber.py to lidar_subscriber.cpython-38.pyc
+byte-compiling /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar/lidar.py to lidar.cpython-38.pyc
+running install_data
+creating /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index
+creating /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index/resource_index
+creating /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index/resource_index/packages
+copying resource/lidar -> /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index/resource_index/packages
+copying package.xml -> /home/hyunjun/lostchild/src/lidar/install/lidar/share/lidar
+running install_egg_info
+Copying build/lidar/lidar.egg-info to /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/hyunjun/lostchild/src/lidar/build/lidar/install.log'

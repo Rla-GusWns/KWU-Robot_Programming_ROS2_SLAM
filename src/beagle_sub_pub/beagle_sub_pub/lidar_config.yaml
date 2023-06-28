@@ -1,0 +1,8 @@
+frame_id: "laser"
+scan_topic: "scan"
+lidar_frequency: 10
+angle_min: 0
+angle_max: 359
+angle_increment: 1
+range_min: 0
+range_max: 65.534

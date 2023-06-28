@@ -1,0 +1,23 @@
+[0.418s] Invoking command in '/home/hyunjun/lostchild/src/lidar': PYTHONPATH=/home/hyunjun/lostchild/src/lidar/build/lidar/prefix_override:/home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar build --build-base /home/hyunjun/lostchild/src/lidar/build/lidar/build install --record /home/hyunjun/lostchild/src/lidar/build/lidar/install.log --install-scripts $base/lib/lidar --single-version-externally-managed
+[0.561s] running egg_info
+[0.561s] writing build/lidar/lidar.egg-info/PKG-INFO
+[0.561s] writing dependency_links to build/lidar/lidar.egg-info/dependency_links.txt
+[0.561s] writing entry points to build/lidar/lidar.egg-info/entry_points.txt
+[0.561s] writing requirements to build/lidar/lidar.egg-info/requires.txt
+[0.561s] writing top-level names to build/lidar/lidar.egg-info/top_level.txt
+[0.583s] reading manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+[0.584s] writing manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+[0.584s] running build
+[0.584s] running build_py
+[0.584s] copying lidar/lidar.py -> /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+[0.584s] running install
+[0.585s] running install_lib
+[0.585s] copying /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar/lidar.py -> /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+[0.586s] byte-compiling /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar/lidar.py to lidar.cpython-38.pyc
+[0.587s] running install_data
+[0.587s] running install_egg_info
+[0.588s] removing '/home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar-0.0.0-py3.8.egg-info' (and everything under it)
+[0.589s] Copying build/lidar/lidar.egg-info to /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar-0.0.0-py3.8.egg-info
+[0.589s] running install_scripts
+[0.600s] writing list of installed files to '/home/hyunjun/lostchild/src/lidar/build/lidar/install.log'
+[0.616s] Invoked command in '/home/hyunjun/lostchild/src/lidar' returned '0': PYTHONPATH=/home/hyunjun/lostchild/src/lidar/build/lidar/prefix_override:/home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar build --build-base /home/hyunjun/lostchild/src/lidar/build/lidar/build install --record /home/hyunjun/lostchild/src/lidar/build/lidar/install.log --install-scripts $base/lib/lidar --single-version-externally-managed

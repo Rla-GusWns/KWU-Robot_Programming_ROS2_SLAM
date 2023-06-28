@@ -1,0 +1,39 @@
+[0.412s] Invoking command in '/home/hyunjun/lostchild/src/lidar': PYTHONPATH=/home/hyunjun/lostchild/src/lidar/build/lidar/prefix_override:/home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar build --build-base /home/hyunjun/lostchild/src/lidar/build/lidar/build install --record /home/hyunjun/lostchild/src/lidar/build/lidar/install.log --install-scripts $base/lib/lidar --single-version-externally-managed
+[0.547s] running egg_info
+[0.547s] creating build/lidar/lidar.egg-info
+[0.547s] writing build/lidar/lidar.egg-info/PKG-INFO
+[0.547s] writing dependency_links to build/lidar/lidar.egg-info/dependency_links.txt
+[0.548s] writing entry points to build/lidar/lidar.egg-info/entry_points.txt
+[0.548s] writing requirements to build/lidar/lidar.egg-info/requires.txt
+[0.548s] writing top-level names to build/lidar/lidar.egg-info/top_level.txt
+[0.548s] writing manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+[0.569s] reading manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+[0.569s] writing manifest file 'build/lidar/lidar.egg-info/SOURCES.txt'
+[0.569s] running build
+[0.569s] running build_py
+[0.569s] creating /home/hyunjun/lostchild/src/lidar/build/lidar/build
+[0.569s] creating /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib
+[0.569s] creating /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+[0.569s] copying lidar/__init__.py -> /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+[0.569s] copying lidar/lidar_subscriber.py -> /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+[0.570s] copying lidar/lidar.py -> /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar
+[0.570s] running install
+[0.570s] running install_lib
+[0.570s] creating /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+[0.570s] copying /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar/__init__.py -> /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+[0.571s] copying /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar/lidar_subscriber.py -> /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+[0.571s] copying /home/hyunjun/lostchild/src/lidar/build/lidar/build/lib/lidar/lidar.py -> /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar
+[0.571s] byte-compiling /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar/__init__.py to __init__.cpython-38.pyc
+[0.571s] byte-compiling /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar/lidar_subscriber.py to lidar_subscriber.cpython-38.pyc
+[0.572s] byte-compiling /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar/lidar.py to lidar.cpython-38.pyc
+[0.572s] running install_data
+[0.572s] creating /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index
+[0.572s] creating /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index/resource_index
+[0.572s] creating /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index/resource_index/packages
+[0.572s] copying resource/lidar -> /home/hyunjun/lostchild/src/lidar/install/lidar/share/ament_index/resource_index/packages
+[0.572s] copying package.xml -> /home/hyunjun/lostchild/src/lidar/install/lidar/share/lidar
+[0.572s] running install_egg_info
+[0.573s] Copying build/lidar/lidar.egg-info to /home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages/lidar-0.0.0-py3.8.egg-info
+[0.573s] running install_scripts
+[0.584s] writing list of installed files to '/home/hyunjun/lostchild/src/lidar/build/lidar/install.log'
+[0.601s] Invoked command in '/home/hyunjun/lostchild/src/lidar' returned '0': PYTHONPATH=/home/hyunjun/lostchild/src/lidar/build/lidar/prefix_override:/home/hyunjun/lostchild/src/lidar/install/lidar/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/lidar build --build-base /home/hyunjun/lostchild/src/lidar/build/lidar/build install --record /home/hyunjun/lostchild/src/lidar/build/lidar/install.log --install-scripts $base/lib/lidar --single-version-externally-managed
