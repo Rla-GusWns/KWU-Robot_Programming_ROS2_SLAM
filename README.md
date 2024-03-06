@@ -1,4 +1,4 @@
-![SLAM](https://github.com/Rla-GusWns/ROS2-SLAM/assets/81339783/cc63711a-90b4-4bb4-a909-3d57f2ee827e)
+![SLAM](https://github.com/Rla-GusWns/ROS2-SLAM/assets/81339783/0cf4ff16-926d-43f0-864e-13e06b2804d9)
 
 # ROS2-SLAM
 Slam Source Code Using Slam Toolbox
